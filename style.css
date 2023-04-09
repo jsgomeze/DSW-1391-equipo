@@ -38,3 +38,13 @@ section ul .item.separator{
     border-bottom: solid 1px black;
     margin: 15px 0;
 }
+
+section ul #imgandres{
+    width: 10%;
+    border-radius: 50%;
+}
+
+section ul #imgyo{
+    width: 10%;
+    border-radius: 50%;
+}
